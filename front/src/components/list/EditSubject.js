@@ -102,7 +102,6 @@ const EditSubject = () => {
                 required
                 fullWidth
                 margin="normal"
-                helperText="Введите ID групп через запятую "
             />
             <Button variant="contained" color="primary" onClick={saveChanges}>
                 Сохранить изменения
